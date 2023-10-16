@@ -1,0 +1,13 @@
+,precision,recall,f1-score,support,exp
+2,0.45,0.25,0.32,120,study2_answer_train_and_eval
+1,0.79,0.82,0.80,630,study2_answer_train_and_eval
+0,0.82,0.86,0.84,559,study2_answer_train_and_eval
+macro_avg,0.69,0.64,0.66,1309,study2_answer_train_and_eval
+weighted_avg,0.77,0.79,0.77,1309,study2_answer_train_and_eval
+accuracy,,,0.79,1309,study2_answer_train_and_eval
+2,0.16,0.38,0.23,120,study2_rubric_train_and_eval
+1,0.64,0.59,0.61,630,study2_rubric_train_and_eval
+0,0.74,0.60,0.66,559,study2_rubric_train_and_eval
+macro_avg,0.51,0.52,0.50,1309,study2_rubric_train_and_eval
+weighted_avg,0.64,0.57,0.60,1309,study2_rubric_train_and_eval
+accuracy,,,0.57,1309,study2_rubric_train_and_eval
